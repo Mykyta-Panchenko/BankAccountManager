@@ -1,0 +1,15 @@
+/home/koputo/Documents/praktGIT/Refactor/BankAccountManager/BankAccountManager/bin/Debug/net9.0/BankAccountManager
+/home/koputo/Documents/praktGIT/Refactor/BankAccountManager/BankAccountManager/bin/Debug/net9.0/BankAccountManager.deps.json
+/home/koputo/Documents/praktGIT/Refactor/BankAccountManager/BankAccountManager/bin/Debug/net9.0/BankAccountManager.runtimeconfig.json
+/home/koputo/Documents/praktGIT/Refactor/BankAccountManager/BankAccountManager/bin/Debug/net9.0/BankAccountManager.dll
+/home/koputo/Documents/praktGIT/Refactor/BankAccountManager/BankAccountManager/bin/Debug/net9.0/BankAccountManager.pdb
+/home/koputo/Documents/praktGIT/Refactor/BankAccountManager/BankAccountManager/obj/Debug/net9.0/BankAccountManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/koputo/Documents/praktGIT/Refactor/BankAccountManager/BankAccountManager/obj/Debug/net9.0/BankAccountManager.AssemblyInfoInputs.cache
+/home/koputo/Documents/praktGIT/Refactor/BankAccountManager/BankAccountManager/obj/Debug/net9.0/BankAccountManager.AssemblyInfo.cs
+/home/koputo/Documents/praktGIT/Refactor/BankAccountManager/BankAccountManager/obj/Debug/net9.0/BankAccountManager.csproj.CoreCompileInputs.cache
+/home/koputo/Documents/praktGIT/Refactor/BankAccountManager/BankAccountManager/obj/Debug/net9.0/BankAccountManager.sourcelink.json
+/home/koputo/Documents/praktGIT/Refactor/BankAccountManager/BankAccountManager/obj/Debug/net9.0/BankAccountManager.dll
+/home/koputo/Documents/praktGIT/Refactor/BankAccountManager/BankAccountManager/obj/Debug/net9.0/refint/BankAccountManager.dll
+/home/koputo/Documents/praktGIT/Refactor/BankAccountManager/BankAccountManager/obj/Debug/net9.0/BankAccountManager.pdb
+/home/koputo/Documents/praktGIT/Refactor/BankAccountManager/BankAccountManager/obj/Debug/net9.0/BankAccountManager.genruntimeconfig.cache
+/home/koputo/Documents/praktGIT/Refactor/BankAccountManager/BankAccountManager/obj/Debug/net9.0/ref/BankAccountManager.dll
