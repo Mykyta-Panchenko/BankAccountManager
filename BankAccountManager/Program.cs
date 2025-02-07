@@ -1,25 +1,33 @@
 ﻿using System;
 
-class BankAccount
+public class BankAccount
 {
-    public double balance;
+    private double _balance;
+
+    public double Balance => _balance;
 
     public void Deposit(double amount)
     {
-        balance += amount;
-        Console.WriteLine($"Deposited {amount}. New balance: {balance}");
+        if (amount <= 0)
+        {
+            Console.WriteLine("Deposit amount must be positive.");
+            return;
+        }
+
+        _balance += amount;
+        Console.WriteLine($"Deposited {amount}. New balance: {_balance}");
     }
 
     public void Withdraw(double amount)
     {
-        if (amount > balance)
+        if (amount > _balance)
         {
             Console.WriteLine("Insufficient funds.");
             return;
         }
 
-        balance -= amount;
-        Console.WriteLine($"Withdrew {amount}. New balance: {balance}");
+        _balance -= amount;
+        Console.WriteLine($"Withdrew {amount}. New balance: {_balance}");
     }
 }
 
